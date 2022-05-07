@@ -1,4 +1,5 @@
 version: '4'
 services: 
   bot:
+    build: .
     env_file: ./.env
