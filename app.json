@@ -10,11 +10,11 @@
     "env": {
         "APP_ID": {
             "description": "Get this value from my.telegram.org",
-            "value": ""
+            "value": "10688996"
         },
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
-            "value": ""
+            "value": "15b8bdbfac6547a48487fc9bff2331ce"
         },
         "SESSION": {
             "description": "A telethon user session.",
@@ -22,11 +22,11 @@
         },
         "BOTS": {
             "description": "Names of your bots separate by space, without @",
-            "value": ""
+            "value": "LaylaRobot NyomiBot NancyRobot VCPlayBot SenoritaMusicBot BtsArmyMusicBot GarimaMusicBot"
         },
         "CHANNEL_ID": {
             "description": "ID of your channel.",
-            "value": ""
+            "value": "-1001444863893"
         },
         "MESSAGE_ID": {
             "description": "ID of the message to edit.",
